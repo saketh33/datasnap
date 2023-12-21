@@ -404,6 +404,12 @@ h3
 {
     margin-right: 5px;
 }
+
+.text-grey-span{
+    display: flex;
+    flex-direction: row;
+}
+
 .reac img
 {
     width: 18px;
