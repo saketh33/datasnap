@@ -201,6 +201,11 @@ body{
     padding: 10px 8px;
     
 }
+.text-grey-span{
+    display: flex;
+    flex-direction: row;
+}
+
 .tags 
 {
     margin-top: 10px;

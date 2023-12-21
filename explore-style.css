@@ -217,6 +217,11 @@ body{
     justify-content: center;
     align-items: center;
 }
+.text-grey-span{
+    display: flex;
+    flex-direction: row;
+}
+
 .trending-tags
 {
     padding: 5px;
