@@ -107,6 +107,23 @@ body{
     padding: 1px 10px 1px 10px;
     margin: 2px 10px 2px 10px;
 }
+.show-more-btn{
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: #0072FF;
+    border: #0072FF solid 1px;
+    border-radius: 20px;
+}
+
+.show-more-btn:hover{
+    background-color: #00C6FF;
+}
 
 .profile-image
 {
@@ -191,7 +208,11 @@ body{
 #show-more
 {
     font-size: 14px;
-    color: var(--darkblue);
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
 }
 .trending-tags
 {
