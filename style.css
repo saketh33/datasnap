@@ -260,6 +260,7 @@ body{
     height: 4px;  
     background: transparent;  
     scroll-behavior: smooth;
+    display: none;
 }
 .story::-webkit-scrollbar-thumb{
     background: rgba(128, 128, 128, 0.264); 
